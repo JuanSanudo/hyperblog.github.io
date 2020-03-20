@@ -3,6 +3,7 @@ body{
     color: blue;
     text-align: center;
 
+    text-align: center;
     font-family: Arial;
     font-size: 16px;
     margin: 0;
@@ -37,21 +38,4 @@ body{
 }
 #post{
     padding: 1em;
-}
-#cabecera{
-    font-family: Courier;
-    font-size: 16px;
-    margin:0;
-    padding:0;
-}
-
-#container{
-    width:70%;
-    padding:left;
-    border:1px solid #DDD;
-    margin:0 auto;
-}
-
-#container h1{
-    font-size: 20px;
 }
