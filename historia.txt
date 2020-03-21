@@ -2,22 +2,6 @@ Esta es la historia de Juan Sañudo
 
 Juan Sañudo tiene 27 años y nacio en Sinaloa Mexico,
 
-viviendo en todo el mundo
+Anita platzi tiene 31 años y nacio en internet
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-Mañana nos enfocaremos en su vida laboral.
-=======
-<<<<<<< HEAD
->>>>>>> cabecera
-Hoy hablaremos de su vida y obra maestra.
-
-En camara parece alto pero en verdad no es tan alto
-=======
-Mañana nos enfocaremos en su vida laboral.
->>>>>>> cabecera
-<<<<<<< HEAD
-=======
->>>>>>> master
->>>>>>> cabecera
+viviendo en todo el muno
